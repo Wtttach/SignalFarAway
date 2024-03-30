@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97ce68a355214c34e867513d56af7ce7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blockUnit: {fileID: 7468674781436068616, guid: e31fc19fef2e09c4f8af2a8380b32ba8,
+      type: 3}
+  - gridUnit: {fileID: 7468674781436068616, guid: 4e250cb6fa00a0f43856f3f74c574635,
+      type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 3d8f3e1b4d4aae949892c15e2eec3660, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

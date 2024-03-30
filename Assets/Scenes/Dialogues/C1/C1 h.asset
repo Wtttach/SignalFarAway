@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e81173c578573e449fd68f76b0b9773, type: 3}
+  m_Name: C1 h
+  m_EditorClassIdentifier: 
+  speakerName: "\u683C\u857E\u4E9A\xB7\u97E6\u5FB7"
+  speakerIcon: {fileID: 21300000, guid: 7e80b356c24cf92459529bd39d6b875c, type: 3}
+  dialogueContents:
+  - "\u6211\u4E0D\u77E5\u9053\u7236\u4EB2\u662F\u6709\u4EC0\u4E48\u6267\u5FF5\u5728\u91CC\u9762\u3002\u542C\u6BCD\u4EB2\u8BF4\uFF0C\u5979\u5F53\u5E74\u5728\u5730\n\u7403\u4E0A\u5C31\u4E00\u76F4\u60F3\u8981\u4E2A\u5B69\u5B50\uFF0C\u4F46\u662F\u7236\u4EB2\u786C\u662F\u8981\u7B49\u5230\u79BB\u5F00\u5730\u7403\u3002"
+  - "\u6211\u591A\u5C11\u6709\u70B9\u4E0D\u8212\u670D\uFF0C\u56E0\u4E3A\u6211\u80FD\u591F\u60F3\u8C61\u6BCD\u4EB2\u53D7\u5230\u4E86\u591A\u5C11\u7684\u714E\u71AC\uFF0C\n\u4F46\u53E6\u4E00\u65B9\u9762\u5982\u679C\u4E0D\u662F\u8FD9\u6837\u6211\u4E5F\u4E0D\u4F1A\u51FA\u751F\u3002"
+  - "\u6216\u8BB8\u592A\u7A7A\u65C5\u884C\u771F\u7684\u6709\u67D0\u79CD\u7279\u522B\u7684\u9B45\u529B\u5427\uFF0C\u5C31\u50CF\u5B89\u5F53\u5E74\u79BB\u5F00\u8FD9\n\u91CC\u4E00\u6837\u3002"
+  dialogueAudios:
+  - {fileID: 8300000, guid: 77dd0af05597d294cb187f5a35092b48, type: 3}
